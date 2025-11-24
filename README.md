@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-Futurista-purple?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio Futurista"/>
+  <img src="https://img.shields.io/badge/PORTFÓLIO-Futurista-purple?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 # 👋 Olá, eu sou **Breno**
