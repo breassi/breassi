@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-Futurista-purple?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFÓLIO-Futurista-purple?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio Futurista"/>
 </p>
 
 # 👋 Olá, eu sou **Breno**
 ### 💼 Engenheiro de Software & Arquiteto de Sistemas
-🚀 Crio, modernizo e mantenho **sistemas inteligentes e escaláveis**, incluindo **projetos novos e legados**, englobando **IA, microserviços, múltiplas arquiteturas, correção de bugs, testes, monitoramento, observabilidade, automação e segurança**.
+Crio, modernizo e mantenho **sistemas inteligentes e escaláveis**, incluindo **projetos novos e legados**, com **IA, microserviços, arquiteturas variadas, correção de bugs, testes, monitoramento, observabilidade, automação e segurança**.  
 
 ---
 
 ## 🌌 Sobre Este Portfólio
-Este repositório é **uma vitrine futurista e interativa**, com:  
+Vitrine futurista e interativa destacando meus projetos mais avançados:  
 
-- 💎 **Badges animadas** para todas as tecnologias  
-- 🏗 **Arquiteturas modernas e escaláveis**, incluindo sistemas legados  
-- 🤖 **Funcionalidades inteligentes com IA e automação**  
+- 💎 **Badges neon animadas** para todas as tecnologias com links oficiais  
+- 🏗 **Arquiteturas modernas e escaláveis**  
+- 🤖 **Funcionalidades inteligentes com IA**  
 - 🔗 **Links diretos para cada repositório**  
-- 🎨 **Cores vibrantes e estilo inspirado em bancos digitais futuristas**  
+- 🎨 **Cores vibrantes com alto contraste**  
+- ♿ **Acessível para leitores de tela**  
 
 ---
 
@@ -23,7 +24,7 @@ Este repositório é **uma vitrine futurista e interativa**, com:
 
 | 🔹 Função | Projeto | Descrição | Tecnologias |
 |---|---|---|---|
-| ⚙️ | [Architecture Generator](https://github.com/breassi/architecture-generator) | Criação automática de estruturas iniciais para projetos em múltiplas linguagens e frameworks | .NET, Node.js, Python, Go, Angular |
+| ⚙️ | [Architecture Generator](https://github.com/breassi/architecture-generator) | Criação automática de estruturas iniciais para projetos em múltiplas linguagens e frameworks | [.NET](https://learn.microsoft.com/dotnet/), [Node.js](https://nodejs.org/en/docs/), [Python](https://docs.python.org/3/), [Go](https://go.dev/doc/), Angular |
 | 🔄 | [Orchestration Generator](https://github.com/breassi/orchestration-generator) | Automatização de pipelines e fluxos de microserviços | Go, Node.js |
 | 🏗 | [Pattern Forge](https://github.com/breassi/pattern-forge) | Biblioteca de padrões de projeto reutilizáveis | .NET, Python |
 | 🔒 | [Security Generator](https://github.com/breassi/security-generator) | Geração automatizada de módulos de segurança | Python, Go |
@@ -41,38 +42,37 @@ Este repositório é **uma vitrine futurista e interativa**, com:
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias (com links oficiais)
 
 <p align="center">
   <a href="https://learn.microsoft.com/dotnet/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-7B61FF?style=for-the-badge&logo=.net&logoColor=white&animation=glow" alt=".NET"/>
+    <img src="https://img.shields.io/badge/.NET-7B61FF?style=for-the-badge&logo=.net&logoColor=white&animation=glow" alt="Documentação .NET"/>
   </a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-34C759?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Node.js-34C759?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" alt="Documentação Node.js"/>
   </a>
   <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-5E5CE6?style=for-the-badge&logo=python&logoColor=white&animation=glow" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-5E5CE6?style=for-the-badge&logo=python&logoColor=white&animation=glow" alt="Documentação Python"/>
   </a>
   <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00F0FF?style=for-the-badge&logo=go&logoColor=white&animation=glow" alt="Go"/>
+    <img src="https://img.shields.io/badge/Go-00F0FF?style=for-the-badge&logo=go&logoColor=white&animation=glow" alt="Documentação Go"/>
   </a>
   <a href="https://angular.io/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-FF3B30?style=for-the-badge&logo=angular&logoColor=white&animation=glow" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Angular-FF3B30?style=for-the-badge&logo=angular&logoColor=white&animation=glow" alt="Documentação Angular"/>
   </a>
   <a href="https://vuejs.org/guide/introduction.html" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-7CFFB0?style=for-the-badge&logo=vue.js&logoColor=white&animation=glow" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Vue.js-7CFFB0?style=for-the-badge&logo=vue.js&logoColor=white&animation=glow" alt="Documentação Vue.js"/>
   </a>
 </p>
-
 
 ---
 
 ## 💡 Filosofia de Desenvolvimento
 
 - 💠 **Arquiteturas Modulares e Escaláveis**  
-- 💠 **IA e Machine Learning para soluções inteligentes**  
+- 💠 **IA e Machine Learning**  
 - 💠 **Observabilidade Total: logs, métricas e tracing**  
-- 💠 **Segurança Integrada por Design**  
+- 💠 **Segurança por Design**  
 - 💠 **Automação e Inovação contínua**  
 - 💠 **Qualidade e manutenção: testes e correção de bugs**  
 
@@ -83,4 +83,5 @@ Este repositório é **uma vitrine futurista e interativa**, com:
 <p align="center">
   <a href="https://www.linkedin.com/in/breno-assis-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/breassi"><img src="https://img.shields.io/badge/GitHub-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:contato@breno.com"><img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
