@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/PORTFÓLIO?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
-</p>
-
 # 👋 Olá, eu sou **Breno**
 ### 💼 Engenheiro de Software & Arquiteto de Sistemas
 Crio, modernizo e mantenho **sistemas inteligentes e escaláveis**, incluindo **projetos novos e legados**, com **IA, microserviços, arquiteturas variadas, correção de bugs, testes, monitoramento, observabilidade, automação e segurança**.  
