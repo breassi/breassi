@@ -44,13 +44,26 @@ Este repositório é **uma vitrine futurista e interativa**, com:
 ## 🛠 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-7B61FF?style=for-the-badge&logo=.net&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Node.js-34C759?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Python-5E5CE6?style=for-the-badge&logo=python&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Go-00F0FF?style=for-the-badge&logo=go&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Angular-FF3B30?style=for-the-badge&logo=angular&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/Vue.js-7CFFB0?style=for-the-badge&logo=vue.js&logoColor=white&animation=glow" />
+  <a href="https://learn.microsoft.com/dotnet/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-7B61FF?style=for-the-badge&logo=.net&logoColor=white&animation=glow" alt=".NET"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-34C759?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" alt="Node.js"/>
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-5E5CE6?style=for-the-badge&logo=python&logoColor=white&animation=glow" alt="Python"/>
+  </a>
+  <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00F0FF?style=for-the-badge&logo=go&logoColor=white&animation=glow" alt="Go"/>
+  </a>
+  <a href="https://angular.io/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-FF3B30?style=for-the-badge&logo=angular&logoColor=white&animation=glow" alt="Angular"/>
+  </a>
+  <a href="https://vuejs.org/guide/introduction.html" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-7CFFB0?style=for-the-badge&logo=vue.js&logoColor=white&animation=glow" alt="Vue.js"/>
+  </a>
 </p>
+
 
 ---
 
