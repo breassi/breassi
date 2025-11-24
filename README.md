@@ -23,84 +23,29 @@ Tudo em **Markdown**, mas com efeito visual de **landing page futurista**.
 
 ## 🚀 Projetos Principais
 
-<p align="center">
-  <a href="https://github.com/breassi/architecture-generator">
-    <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" alt="Architecture Generator"/>
-    <br>Architecture Generator
-  </a>
-  <a href="https://github.com/breassi/orchestration-generator">
-    <img src="https://media.giphy.com/media/3o7aD4xUDos0Z0BqGk/giphy.gif" width="300" alt="Orchestration Generator"/>
-    <br>Orchestration Generator
-  </a>
-  <a href="https://github.com/breassi/pattern-forge">
-    <img src="https://media.giphy.com/media/l0HlQ4VYCtssWf6gk/giphy.gif" width="300" alt="Pattern Forge"/>
-    <br>Pattern Forge
-  </a>
-</p>
+## 🚀 Projetos Principais
 
-<p align="center">
-  <a href="https://github.com/breassi/security-generator">
-    <img src="https://media.giphy.com/media/3o6ZsYBzIhAipY50E4/giphy.gif" width="300" alt="Security Generator"/>
-    <br>Security Generator
-  </a>
-  <a href="https://github.com/breassi/governance-generator">
-    <img src="https://media.giphy.com/media/3o7qDYjP6G4C9D1Hqk/giphy.gif" width="300" alt="Governance Generator"/>
-    <br>Governance Generator
-  </a>
-  <a href="https://github.com/breassi/compliance-generator">
-    <img src="https://media.giphy.com/media/3o7aD6BdqYzpjqNwU8/giphy.gif" width="300" alt="Compliance Generator"/>
-    <br>Compliance Generator
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/breassi/notification-generator">
-    <img src="https://media.giphy.com/media/l0Exh8ECgQ0PMxwJi/giphy.gif" width="300" alt="Notification Generator"/>
-    <br>Notification Generator
-  </a>
-  <a href="https://github.com/breassi/observability-generator">
-    <img src="https://media.giphy.com/media/l0HlQ4n2vw5d4T3Y4/giphy.gif" width="300" alt="Observability Generator"/>
-    <br>Observability Generator
-  </a>
-  <a href="https://github.com/breassi/integration-generator">
-    <img src="https://media.giphy.com/media/3o6ZsX3JQwGf4wNfQk/giphy.gif" width="300" alt="Integration Generator"/>
-    <br>Integration Generator
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/breassi/fin-master-ai">
-    <img src="https://media.giphy.com/media/l0HlDUnvT4W9zWm4g/giphy.gif" width="300" alt="Fin Master AI"/>
-    <br>Fin Master AI
-  </a>
-  <a href="https://github.com/breassi/neo-market">
-    <img src="https://media.giphy.com/media/3o7TKDoxYxL64uIZ0A/giphy.gif" width="300" alt="Neo Market"/>
-    <br>Neo Market
-  </a>
-  <a href="https://github.com/breassi/super-flux-erp">
-    <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300" alt="Super Flux ERP"/>
-    <br>Super Flux ERP
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/breassi/infrastructure-generator">
-    <img src="https://media.giphy.com/media/xT5LMu1b4XZ4h5vBJe/giphy.gif" width="300" alt="Infrastructure Generator"/>
-    <br>Infrastructure Generator
-  </a>
-  <a href="https://github.com/breassi/workload-generator">
-    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="300" alt="Workload Generator"/>
-    <br>Workload Generator
-  </a>
-  <a href="https://github.com/breassi/specter-shield-ai">
-    <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" alt="Specter Shield AI"/>
-    <br>Specter Shield AI
-  </a>
-</p>
+| Projeto | Função / Descrição | Tecnologias |
+|---|---|---|
+| [Architecture Generator](https://github.com/breassi/architecture-generator) | Gera automaticamente estruturas iniciais de projetos de software, suportando múltiplas linguagens e frameworks. | .NET, Node.js, Python, Go, Angular |
+| [Orchestration Generator](https://github.com/breassi/orchestration-generator) | Automatiza pipelines e fluxos de microserviços, facilitando a integração entre sistemas. | Go, Node.js |
+| [Pattern Forge](https://github.com/breassi/pattern-forge) | Biblioteca automatizada de padrões de projeto reutilizáveis e aplicáveis em múltiplos sistemas. | .NET, Python |
+| [Security Generator](https://github.com/breassi/security-generator) | Criação automatizada de módulos de segurança, autenticação e autorização. | Python, Go |
+| [Governance Generator](https://github.com/breassi/governance-generator) | Gestão de regras de negócio e compliance em sistemas corporativos. | .NET, Python, Node.js |
+| [Compliance Generator](https://github.com/breassi/compliance-generator) | Automação de auditoria e políticas regulatórias. | .NET, Python, Node.js |
+| [Notification Generator](https://github.com/breassi/notification-generator) | Sistema escalável de notificações (email, SMS, push) | Node.js, Go |
+| [Observability Generator](https://github.com/breassi/observability-generator) | Logs, métricas e dashboards para monitoramento de sistemas distribuídos. | Python, Go |
+| [Integration Generator](https://github.com/breassi/integration-generator) | Criação de pipelines e conectores para integração entre sistemas heterogêneos. | Node.js, Go |
+| [Fin Master AI](https://github.com/breassi/fin-master-ai) | Previsão financeira, análise de dados e detecção de fraudes com IA. | Python, .NET |
+| [Neo Market](https://github.com/breassi/neo-market) | Marketplace inteligente e escalável, com recursos de e-commerce avançados. | Node.js, Vue.js |
+| [Super Flux ERP](https://github.com/breassi/super-flux-erp) | ERP completo para gestão empresarial, incluindo estoque, finanças e recursos humanos. | .NET, Angular |
+| [Infrastructure Generator](https://github.com/breassi/infrastructure-generator) | Criação automatizada de infraestrutura como código (IaC). | Go, Python |
+| [Workload Generator](https://github.com/breassi/workload-generator) | Simulação de carga e performance de sistemas distribuídos. | Go, Python |
+| [Specter Shield AI](https://github.com/breassi/specter-shield-ai) | Sistema de detecção de ameaças e segurança com Machine Learning. | Python, Go |
 
 ---
 
-## 🛠 Tecnologias Neon
+## 🛠 Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&animation=glow" />
@@ -120,7 +65,6 @@ Tudo em **Markdown**, mas com efeito visual de **landing page futurista**.
 - 💠 **Observabilidade Integrada**: logs, métricas e tracing  
 - 💠 **Segurança por Design**: proteção e compliance automatizados  
 - 💠 **Inovação Contínua**: explorando tecnologias de ponta
-
 
 ---
 
