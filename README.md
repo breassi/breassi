@@ -6,10 +6,6 @@
 ### 💼 Engenheiro de Software
 🚀 Crio, modernizo e mantenho sistemas escaláveis e inteligentes, incluindo projetos novos e legados, com IA, microserviços, arquiteturas variadas, correção de bugs, testes, monitoramento, observabilidade, automação e segurança.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHqZycSplGcsHUI/giphy.gif" alt="Futuristic Tech" width="600"/>
-</p>
-
 ---
 
 ## 🌌 Sobre Este Portfólio
@@ -125,15 +121,12 @@ Tudo em **Markdown**, mas com efeito visual de **landing page futurista**.
 - 💠 **Segurança por Design**: proteção e compliance automatizados  
 - 💠 **Inovação Contínua**: explorando tecnologias de ponta
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4vW5Z9g6XnhyU/giphy.gif" width="600" alt="Futuristic Dashboard"/>
-</p>
 
 ---
 
 ## 📬 Me Contate
 
 <p align="center">
-  <a href="[https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/breno-assis-dev/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://github.com/breassi](https://github.com/breassi)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/breno-assis-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/breassi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
