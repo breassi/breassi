@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-Futurista-purple?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio Futurista"/>
+  <img src="https://img.shields.io/badge/PORTFÓLIO?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
 </p>
 
 # 👋 Olá, eu sou **Breno**
@@ -11,7 +11,7 @@ Crio, modernizo e mantenho **sistemas inteligentes e escaláveis**, incluindo **
 ## 🌌 Sobre Este Portfólio
 Vitrine futurista e interativa destacando meus projetos mais avançados:  
 
-- 💎 **Badges neon animadas** para todas as tecnologias com links oficiais  
+- 💎 **Badges animadas** para todas as tecnologias com links oficiais  
 - 🏗 **Arquiteturas modernas e escaláveis**  
 - 🤖 **Funcionalidades inteligentes com IA**  
 - 🔗 **Links diretos para cada repositório**  
@@ -42,7 +42,7 @@ Vitrine futurista e interativa destacando meus projetos mais avançados:
 
 ---
 
-## 🛠 Tecnologias (com links oficiais)
+## 🛠 Tecnologias
 
 <p align="center">
   <a href="https://learn.microsoft.com/dotnet/" target="_blank">
@@ -83,5 +83,4 @@ Vitrine futurista e interativa destacando meus projetos mais avançados:
 <p align="center">
   <a href="https://www.linkedin.com/in/breno-assis-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/breassi"><img src="https://img.shields.io/badge/GitHub-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:contato@breno.com"><img src="https://img.shields.io/badge/Email-FF2D55?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
