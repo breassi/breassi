@@ -16,7 +16,7 @@ Vitrine futurista e interativa destacando meus projetos mais avançados:
 
 ---
 
-## 🚀 Projetos Principais
+## 🚀 Projetos
 
 | 🔹 Função | Projeto | Descrição | Tecnologias |
 |---|---|---|---|
@@ -35,6 +35,9 @@ Vitrine futurista e interativa destacando meus projetos mais avançados:
 | 🏗 | [Infrastructure Generator](https://github.com/breassi/infrastructure-generator) | Infraestrutura como código automatizada | Go, Python |
 | ⚡ | [Workload Generator](https://github.com/breassi/workload-generator) | Simulação de carga e análise de performance | Go, Python |
 | 🛡 | [Specter Shield AI](https://github.com/breassi/specter-shield-ai) | Detecção de ameaças e segurança com Machine Learning | Python, Go |
+| 📊 | [Analytics Generator](https://github.com/breassi/analytics-generator) | Gera dashboards, relatórios e pipelines de análise de dados automaticamente, com IA para insights inteligentes. | Python, Node.js, Angular, Vue.js |
+| 🧪 | [Test Generator](https://github.com/breassi/test-generator) | Gera testes automatizados (unitários, integração e E2E) para projetos existentes, garantindo qualidade e cobertura. | Python, Node.js, .NET, Go |
+| ⚙️ | [Workflow Generator](https://github.com/breassi/workflow-generator) | Cria pipelines e workflows automatizados de CI/CD e integração entre sistemas, padronizando processos DevOps. | Node.js, Go, Python |
 
 ---
 
